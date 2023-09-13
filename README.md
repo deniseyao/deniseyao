@@ -14,6 +14,7 @@
   <img src="https://logos-download.com/wp-content/uploads/2019/01/JavaScript_Logo.png" alt="javascript" height="40" data-canonical-src="https://img.icons8.com/color/344/javascript--v1.png" height="40" style="max-width: 100%;" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/1024px-WordPress_blue_logo.svg.png" style="max-width: 100%;" height="40" />
   <img src="https://cdn.freebiesupply.com/logos/large/2x/shopify-logo-png-transparent.png" style="max-width: 100%;" height="40" />
+  <img src="https://parse.programmieren-muenchen.de/parse/files/unilearn/programmieren-lernen-muenchen-liquid-shopify-logo.png" style="max-width: 100%;" height="40" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Wix.com_website_logo.svg/800px-Wix.com_website_logo.svg.png" style="max-width: 100%;" height="40" />
   <img src="https://logos-download.com/wp-content/uploads/2017/07/HTML5_badge.png" style="max-width: 100%;" height="40" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png" style="max-width: 100%;" height="40" />
