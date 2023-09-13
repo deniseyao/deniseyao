@@ -8,7 +8,7 @@
 
 ## Main Technologies:
 <div style='display:flex'>
-  <img src="https://ih1.redbubble.net/image.523773260.2241/flat,550x550,075,f.u4.jpg" alt="javascript" height="40" data-canonical-src="https://img.icons8.com/color/344/javascript--v1.png" height="40"  style="max-width: 100%;" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" height="40" data-canonical-src="https://img.icons8.com/color/344/javascript--v1.png" height="40"  style="max-width: 100%;" />
   <img src="https://blog.jeremylikness.com/blog/2019-03-05_typescript-for-javascript-developers-by-refactoring-part-1-of-2/images/1.jpeg" height="40" style="max-width: 100%;" />
   <img src="https://hendrixer.github.io/nextjs-course/44f073f9132a0459819eae6afa5b3807/next_with_bg.svg" height="40"  style="max-width: 100%;" />
   <img src="https://logos-download.com/wp-content/uploads/2019/01/JavaScript_Logo.png" alt="javascript" height="40" data-canonical-src="https://img.icons8.com/color/344/javascript--v1.png" height="40" style="max-width: 100%;" />
