@@ -27,7 +27,6 @@
 
 ## Other Tools & Technologies:
 <div style='display:flex;align-items:"center"'>
-  <img src="https://hendrixer.github.io/nextjs-course/44f073f9132a0459819eae6afa5b3807/next_with_bg.svg" style="max-width: 100%;" height="40" />
   <img src="https://tailwindcss.andredemos.ca/img/twitter/tailwind_logo.jpg" style="max-width: 100%;" height="40" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Ruby_logo.png" style="max-width: 100%;" height="40" />
   <img src="https://bs-uploads.toptal.io/blackfish-uploads/skill_page/content/logo_file/logo/6212/GraphQL_Logo.svg-490ae3deb7c0f056c849d7463fb8ab39.png" style="max-width: 100%;" height="40" />
