@@ -1,9 +1,9 @@
 ### Hi there! 👋 My Name is Denise Yao and I am a Web Developer.
 <ul>
-  <li>:world_map: I'm currently living in the Philippines</li>
-  <li>:school: I have a Bachelor's Degree in Information Technology</li>
+  <li>:earth_asia: I'm currently living in the Philippines</li>
+  <li>:woman_student: I have a Bachelor's Degree in Information Technology</li>
   <li>:computer: My  main field of expertise is Web Development</li>
-  <li>:joystick: I read fantasy books on my spare time :laughing:</li>
+  <li>:books: I read fantasy books on my spare time :laughing:</li>
 </ul>
 
 ## Main Technologies:
