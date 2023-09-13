@@ -31,7 +31,7 @@
   <img src="https://tailwindcss.andredemos.ca/img/twitter/tailwind_logo.jpg" style="max-width: 100%;" height="40" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Ruby_logo.png" style="max-width: 100%;" height="40" />
   <img src="https://bs-uploads.toptal.io/blackfish-uploads/skill_page/content/logo_file/logo/6212/GraphQL_Logo.svg-490ae3deb7c0f056c849d7463fb8ab39.png" style="max-width: 100%;" height="40" />
-  <img src="https://1000marcas.net/wp-content/uploads/2020/10/Google-Analytics-Logo.jpg" style="max-width: 100%;" height="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/GAnalytics.svg/1200px-GAnalytics.svg.png" style="max-width: 100%;" height="40" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/640px-Adobe_Photoshop_CC_icon.svg.png" style="max-width: 100%;" height="40" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/2101px-Adobe_Illustrator_CC_icon.svg.png" style="max-width: 100%;" height="40" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/1051px-Adobe_XD_CC_icon.svg.png" style="max-width: 100%;" height="40" />
