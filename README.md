@@ -51,7 +51,7 @@
 <li>:computer: https://gym-typescript-aja.pages.dev/</li>
 </ul>
 
-### Promptopia - AI-Powered Prompts Web App
+### Promptopia (AI-Powered Prompts Web App)
 #### ReactJS, Next.js 13, and Tailwind CSS
 <ul>
 <li>:keyboard: https://github.com/deniseyao/promptopia</li>
