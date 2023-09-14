@@ -44,14 +44,14 @@
 
 ## My Personal Projects:
 
-### Fitness Gym Web App
+### :small_blue_diamond: Fitness Gym Web App
 #### Vite, ReactJS, TypeScript, and Tailwind CSS
 <ul>
 <li>:keyboard: https://github.com/deniseyao/gym-typescript</li>
 <li>:computer: https://gym-typescript-aja.pages.dev/</li>
 </ul>
 
-### Promptopia (AI-Powered Prompts Web App)
+### :small_blue_diamond: Promptopia (AI-Powered Prompts Web App)
 #### ReactJS, Next.js 13, and Tailwind CSS
 <ul>
 <li>:keyboard: https://github.com/deniseyao/promptopia</li>
