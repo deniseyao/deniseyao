@@ -58,6 +58,13 @@
 <li>:computer: https://promptopia-jrvf99qt9-deniseyao.vercel.app/</li>
 </ul>
 
+### :small_blue_diamond: Flexibble (Dribbble Clone)
+#### ReactJS, Next.js 13, TypeScript, Tailwind CSS, GraphQL, Grafbase, and Cloudinary
+<ul>
+<li>:keyboard: https://github.com/deniseyao/grafbase_flexibble</li>
+<li>:computer: https://flexibble-jet.vercel.app/</li>
+</ul>
+
 ---
 
 ### 📫 How to reach me:
