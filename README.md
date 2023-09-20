@@ -44,11 +44,11 @@
 
 ## My Personal Projects:
 
-### :small_blue_diamond: Fitness Gym Web App
-#### Vite, ReactJS, TypeScript, and Tailwind CSS
+### :small_blue_diamond: Flexibble (Dribbble Clone)
+#### ReactJS, Next.js 13, TypeScript, Tailwind CSS, GraphQL, Grafbase, and Cloudinary
 <ul>
-<li>:keyboard: https://github.com/deniseyao/gym-typescript</li>
-<li>:computer: https://gym-typescript-aja.pages.dev/</li>
+<li>:keyboard: https://github.com/deniseyao/grafbase_flexibble</li>
+<li>:computer: https://flexibble-jet.vercel.app/</li>
 </ul>
 
 ### :small_blue_diamond: Promptopia (AI-Powered Prompts Web App)
@@ -58,11 +58,11 @@
 <li>:computer: https://promptopia-jrvf99qt9-deniseyao.vercel.app/</li>
 </ul>
 
-### :small_blue_diamond: Flexibble (Dribbble Clone)
-#### ReactJS, Next.js 13, TypeScript, Tailwind CSS, GraphQL, Grafbase, and Cloudinary
+### :small_blue_diamond: Fitness Gym Web App
+#### Vite, ReactJS, TypeScript, and Tailwind CSS
 <ul>
-<li>:keyboard: https://github.com/deniseyao/grafbase_flexibble</li>
-<li>:computer: https://flexibble-jet.vercel.app/</li>
+<li>:keyboard: https://github.com/deniseyao/gym-typescript</li>
+<li>:computer: https://gym-typescript-aja.pages.dev/</li>
 </ul>
 
 ---
