@@ -52,7 +52,7 @@
 </ul>
 
 ### :small_blue_diamond: Promptopia (AI-Powered Prompts Web App)
-#### ReactJS, Next.js 13, and Tailwind CSS
+#### ReactJS, Next.js 13, Tailwind CSS, and MongoDB
 <ul>
 <li>:keyboard: https://github.com/deniseyao/promptopia</li>
 <li>:computer: https://promptopia-jrvf99qt9-deniseyao.vercel.app/</li>
