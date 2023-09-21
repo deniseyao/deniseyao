@@ -71,9 +71,7 @@
 <a href='https://www.linkedin.com/in/deniseyao/'>
   <img src="https://logospng.org/download/linkedin/logo-linkedin-icon-2048.png" style="max-width: 100%;" height="40" />
 </a>
-<a href='https://www.linkedin.com/in/deniseyao/'>
-  ### :email:
-</a>
+### <a href='https://www.linkedin.com/in/deniseyao/'>:email:</a>
 
 ### 🌱 I’m currently learning and expanding my knowledge on 
 <ul>
