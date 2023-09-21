@@ -55,7 +55,7 @@
 #### ReactJS, Next.js 13, Tailwind CSS, and MongoDB
 <ul>
 <li>:keyboard: https://github.com/deniseyao/promptopia</li>
-<li>:computer: https://promptopia-jrvf99qt9-deniseyao.vercel.app/</li>
+<li>:computer: https://promptopia-eosin-nine.vercel.app/</li>
 </ul>
 
 ### :small_blue_diamond: Fitness Gym Web App
