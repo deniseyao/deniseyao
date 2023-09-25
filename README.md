@@ -58,6 +58,13 @@
 <li>:computer: https://promptopia-eosin-nine.vercel.app/</li>
 </ul>
 
+### :small_blue_diamond: CarHub (Car Showcase Web App)
+#### ReactJS, Next.js 13, Tailwind CSS, TypeScript, Rapid API, and Imagin Studio API
+<ul>
+<li>:keyboard: https://github.com/deniseyao/carhub</li>
+<li>:computer: https://carhub-inky.vercel.app/</li>
+</ul>
+
 ### :small_blue_diamond: Fitness Gym Web App
 #### Vite, ReactJS, TypeScript, and Tailwind CSS
 <ul>
