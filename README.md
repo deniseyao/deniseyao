@@ -44,6 +44,13 @@
 
 ## My Personal Projects:
 
+### :small_blue_diamond: Breadit (Reddit Clone)
+#### ReactJS, Next.js 13, TypeScript, Tailwind CSS, Prisma, Redis, Shadcn UI, and UploadThing API
+<ul>
+<li>:keyboard: https://github.com/deniseyao/breadit</li>
+<li>:computer: https://breadit-lime.vercel.app/</li>
+</ul>
+
 ### :small_blue_diamond: Flexibble (Dribbble Clone)
 #### ReactJS, Next.js 13, TypeScript, Tailwind CSS, GraphQL, Grafbase, and Cloudinary
 <ul>
