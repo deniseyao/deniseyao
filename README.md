@@ -47,42 +47,42 @@
 ### :small_blue_diamond: Quill (AI-Integrated SaaS Platform)
 #### ReactJS, Next.js 13, TypeScript, Tailwind CSS, Prisma, MySQL, tRPC, OpenAI, Pinecone, Kinde, Shadcn UI, and UploadThing API
 <ul>
-<li>:keyboard: https://github.com/deniseyao/quill</li>
+<li>:octocat: https://github.com/deniseyao/quill</li>
 <li>:computer: https://quill-rho.vercel.app/</li>
 </ul>
 
 ### :small_blue_diamond: Breadit (Reddit Clone)
 #### ReactJS, Next.js 13, TypeScript, Tailwind CSS, Prisma, MySQL, Redis, Shadcn UI, and UploadThing API
 <ul>
-<li>:keyboard: https://github.com/deniseyao/breadit</li>
+<li>:octocat: https://github.com/deniseyao/breadit</li>
 <li>:computer: https://breadit-lime.vercel.app/</li>
 </ul>
 
 ### :small_blue_diamond: Flexibble (Dribbble Clone)
 #### ReactJS, Next.js 13, TypeScript, Tailwind CSS, GraphQL, Grafbase, and Cloudinary
 <ul>
-<li>:keyboard: https://github.com/deniseyao/grafbase_flexibble</li>
+<li>:octocat: https://github.com/deniseyao/grafbase_flexibble</li>
 <li>:computer: https://flexibble-jet.vercel.app/</li>
 </ul>
 
 ### :small_blue_diamond: Promptopia (AI-Powered Prompts Web App)
 #### ReactJS, Next.js 13, Tailwind CSS, and MongoDB
 <ul>
-<li>:keyboard: https://github.com/deniseyao/promptopia</li>
+<li>:octocat: https://github.com/deniseyao/promptopia</li>
 <li>:computer: https://promptopia-eosin-nine.vercel.app/</li>
 </ul>
 
 ### :small_blue_diamond: CarHub (Car Showcase Web App)
 #### ReactJS, Next.js 13, Tailwind CSS, TypeScript, Rapid API, and Imagin Studio API
 <ul>
-<li>:keyboard: https://github.com/deniseyao/carhub</li>
+<li>:octocat: https://github.com/deniseyao/carhub</li>
 <li>:computer: https://carhub-inky.vercel.app/</li>
 </ul>
 
 ### :small_blue_diamond: Fitness Gym Web App
 #### Vite, ReactJS, TypeScript, and Tailwind CSS
 <ul>
-<li>:keyboard: https://github.com/deniseyao/gym-typescript</li>
+<li>:octocat: https://github.com/deniseyao/gym-typescript</li>
 <li>:computer: https://gym-typescript-aja.pages.dev/</li>
 </ul>
 
