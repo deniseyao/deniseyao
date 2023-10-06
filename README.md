@@ -47,42 +47,42 @@
 ### :small_blue_diamond: Quill (AI-Integrated SaaS Platform)
 #### ReactJS, Next.js 13, TypeScript, Tailwind CSS, Prisma, MySQL, tRPC, OpenAI, Pinecone, Kinde, Shadcn UI, and UploadThing API
 <ul>
-<li>:mag_right: https://github.com/deniseyao/quill</li>
+<li>:open_file_folder: https://github.com/deniseyao/quill</li>
 <li>:globe_with_meridians: https://quill-rho.vercel.app/</li>
 </ul>
 
 ### :small_blue_diamond: Breadit (Reddit Clone)
 #### ReactJS, Next.js 13, TypeScript, Tailwind CSS, Prisma, MySQL, Redis, Shadcn UI, and UploadThing API
 <ul>
-<li>:mag_right: https://github.com/deniseyao/breadit</li>
+<li>:open_file_folder: https://github.com/deniseyao/breadit</li>
 <li>:globe_with_meridians: https://breadit-lime.vercel.app/</li>
 </ul>
 
 ### :small_blue_diamond: Flexibble (Dribbble Clone)
 #### ReactJS, Next.js 13, TypeScript, Tailwind CSS, GraphQL, Grafbase, and Cloudinary
 <ul>
-<li>:mag_right: https://github.com/deniseyao/grafbase_flexibble</li>
+<li>:open_file_folder: https://github.com/deniseyao/grafbase_flexibble</li>
 <li>:globe_with_meridians: https://flexibble-jet.vercel.app/</li>
 </ul>
 
 ### :small_blue_diamond: Promptopia (AI-Powered Prompts Web App)
 #### ReactJS, Next.js 13, Tailwind CSS, and MongoDB
 <ul>
-<li>:mag_right: https://github.com/deniseyao/promptopia</li>
+<li>:open_file_folder: https://github.com/deniseyao/promptopia</li>
 <li>:globe_with_meridians: https://promptopia-eosin-nine.vercel.app/</li>
 </ul>
 
 ### :small_blue_diamond: CarHub (Car Showcase Web App)
 #### ReactJS, Next.js 13, Tailwind CSS, TypeScript, Rapid API, and Imagin Studio API
 <ul>
-<li>:mag_right: https://github.com/deniseyao/carhub</li>
+<li>:open_file_folder: https://github.com/deniseyao/carhub</li>
 <li>:globe_with_meridians: https://carhub-inky.vercel.app/</li>
 </ul>
 
 ### :small_blue_diamond: Fitness Gym Web App
 #### Vite, ReactJS, TypeScript, and Tailwind CSS
 <ul>
-<li>:mag_right: https://github.com/deniseyao/gym-typescript</li>
+<li>:open_file_folder: https://github.com/deniseyao/gym-typescript</li>
 <li>:globe_with_meridians: https://gym-typescript-aja.pages.dev/</li>
 </ul>
 
