@@ -45,7 +45,7 @@
 ## My Personal Projects:
 
 ### :small_blue_diamond: Quill (AI-Integrated SaaS Platform)
-#### ReactJS, Next.js 13, TypeScript, Tailwind CSS, Prisma, MySQL, tRPC, OpenAI, Pinecone, Kinde, Shadcn UI, and UploadThing API
+#### ReactJS, Next.js 13, TypeScript, Tailwind CSS, Prisma, MySQL, tRPC, OpenAI, Pinecone, Kinde, Stripe, Shadcn UI, and UploadThing API
 <ul>
 <li>:open_file_folder: https://github.com/deniseyao/quill</li>
 <li>:globe_with_meridians: https://quill-rho.vercel.app/</li>
