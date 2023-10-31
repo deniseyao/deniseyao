@@ -31,7 +31,7 @@
   <img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.3c5441fc7a190fb1800d4a5c7f07ba4b1345a9c8.svg" style="max-width: 100%;" height="40" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Ruby_logo.png" style="max-width: 100%;" height="40" />
   <img src="https://bs-uploads.toptal.io/blackfish-uploads/skill_page/content/logo_file/logo/6212/GraphQL_Logo.svg-490ae3deb7c0f056c849d7463fb8ab39.png" style="max-width: 100%;" height="40" />
-  <img src="https://storage-us-gcs.bfldr.com/hj345wvxsvpbc82vchqcj9qh/v/1069931054/original/MongoDB_Logomark_SpringGreen.png?Expires=1694683761&KeyName=gcs-bfldr-prod&Signature=31DqCgJr0HVokNjYns-4bwNgLUA=" style="max-width: 100%;" height="40" />
+  <img src="https://images.crunchbase.com/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/erkxwhl1gd48xfhe2yld" style="max-width: 100%;" height="40" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/GAnalytics.svg/1200px-GAnalytics.svg.png" style="max-width: 100%;" height="40" />
   <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/168_Hubspot_logo_logos-512.png" style="max-width: 100%;" height="40" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/640px-Adobe_Photoshop_CC_icon.svg.png" style="max-width: 100%;" height="40" />
