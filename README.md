@@ -88,16 +88,6 @@
 
 ---
 
-### 📫 How to reach me:
-<div style='display:flex;align-items:center;'>
-  <a href='https://www.linkedin.com/in/deniseyao/'>
-    <img src="https://logospng.org/download/linkedin/logo-linkedin-icon-2048.png" style="max-width: 100%;" height="40" />
-  </a>
-  <a href='mailto:denisemejiayao10@gmail.com'>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" style="max-width:100%;" height="40" />
-  </a>
-</div>
-
 ### 🌱 I’m currently learning and expanding my knowledge on 
 <ul>
   <li>ReactJS 18</li>
