@@ -2,7 +2,7 @@
 <ul>
   <li>:earth_asia: I'm currently living in the Philippines</li>
   <li>:woman_student: I have a Bachelor's Degree in Information Technology</li>
-  <li>:computer: My  main field of expertise is Web Development</li>
+  <li>:computer: My  main field of expertise is Software Engineering</li>
   <li>:books: I read fantasy books on my spare time :laughing:</li>
 </ul>
 
