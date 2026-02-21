@@ -1,4 +1,4 @@
-### Hi there! 👋 My Name is Denise Yao and I am a Web Developer.
+### Hi there! 👋 My Name is Denise Yao and I am an aspiring Data Scientist.
 <ul>
   <li>:earth_asia: Originally from the Philippines, I am currently based in the France</li>
   <li>:woman_student: I am currently taking my Master's in Data Management in Biosciences</li>
