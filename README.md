@@ -1,6 +1,6 @@
 ### Hi there! 👋 My Name is Denise Yao and I am a Web Developer.
 <ul>
-  <li>:earth_asia: I'm currently based in the France</li>
+  <li>:earth_asia: Originally from the Philippines, I am currently based in the France</li>
   <li>:woman_student: I am currently taking my Master's in Data Management in Biosciences</li>
   <li>:computer: Software Engineer (7 yrs) Transitioning into Data Science & Analytic</li>
   <li>:books: I read fantasy books on my spare time :laughing:</li>
