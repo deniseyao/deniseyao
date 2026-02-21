@@ -1,8 +1,8 @@
 ### Hi there! 👋 My Name is Denise Yao and I am a Web Developer.
 <ul>
-  <li>:earth_asia: I'm currently living in the Philippines</li>
-  <li>:woman_student: I have a Bachelor's Degree in Information Technology</li>
-  <li>:computer: My  main field of expertise is Software Engineering</li>
+  <li>:earth_asia: I'm currently based in the France</li>
+  <li>:woman_student: I am currently taking my Master's in Data Management in Biosciences</li>
+  <li>:computer: Software Engineer (7 yrs) Transitioning into Data Science & Analytic</li>
   <li>:books: I read fantasy books on my spare time :laughing:</li>
 </ul>
 
