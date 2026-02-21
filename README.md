@@ -91,6 +91,6 @@
 ### 🌱 I’m currently developing my skills on 
 <ul>
   <li>Data Science / Analytics</li>
-  <li>Machine Learning</li>
+  <li>Machine Learning & AI</li>
   <li>Bioinformatics</li>
 </ul>
