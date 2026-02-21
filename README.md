@@ -88,9 +88,9 @@
 
 ---
 
-### 🌱 I’m currently learning and expanding my knowledge on 
+### 🌱 I’m currently developing my skills on 
 <ul>
-  <li>ReactJS 18</li>
-  <li>Next.js 13</li>
-  <li>AWS Services</li>
+  <li>Data Science / Analytics</li>
+  <li>Machine Learning</li>
+  <li>Bioinformatics</li>
 </ul>
